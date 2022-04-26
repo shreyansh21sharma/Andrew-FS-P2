@@ -1,5 +1,0 @@
-/home/afsproj/grpc/examples/cpp/afs-test/cmake/build/CMakeFiles/rebuild_cache.dir
-/home/afsproj/grpc/examples/cpp/afs-test/cmake/build/CMakeFiles/hw_grpc_proto.dir
-/home/afsproj/grpc/examples/cpp/afs-test/cmake/build/CMakeFiles/edit_cache.dir
-/home/afsproj/grpc/examples/cpp/afs-test/cmake/build/CMakeFiles/client.dir
-/home/afsproj/grpc/examples/cpp/afs-test/cmake/build/CMakeFiles/server.dir
